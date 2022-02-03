@@ -100,6 +100,5 @@ mvn install
 ```
 
 ## Contributing
-
 We love contributions! Take a look at
 [our contributing page](https://github.com/apache/logging-log4j2/blob/master/CONTRIBUTING.md).
